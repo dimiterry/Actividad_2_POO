@@ -2,9 +2,9 @@
 
 ## Información de la actividad
 
-**Universidad:** Universidad Nacional de Colombia - Sede Medellín
-**Actividad:** Actividad 2 - Programación Orientada a Objetos
-**Estudiante:** Jorge Elias Osorno Ruiz
+**Universidad:** Universidad Nacional de Colombia - Sede Medellín<br>
+**Actividad:** Actividad 2 - Programación Orientada a Objetos<br>
+**Estudiante:** Jorge Elias Osorno Ruiz<br>
 **Docente:** Walter Hugo Arboleda Mazo
 
 ## Descripción
