@@ -1,0 +1,24 @@
+# Archivos compilados
+*.class
+
+# Carpetas de compilación
+/build/
+/dist/
+
+# Archivos generados por NetBeans
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración personal
+/nbproject/private/
+/.idea/
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
